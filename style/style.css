@@ -189,7 +189,7 @@ s {
     background-color: white;
     color: red;
     opacity: .9; 
-    transition-duration: .2s;
+    transition-duration: .5s;
     transition-timing-function: linear;
 }
 /* ----------------------------- FOOTER */
